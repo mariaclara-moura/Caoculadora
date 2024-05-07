@@ -1,2 +1,2 @@
-# Caoculadora
-Projeto de app realizado na Apple Developer Academy
+# Cãoculadora 🐶
+Projeto de app realizado em aula na Apple Developer Academy
